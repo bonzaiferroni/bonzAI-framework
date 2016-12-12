@@ -1,0 +1,8 @@
+.DS_Store
+/typings
+/node_modules
+/dist
+Gruntfile.js
+/.idea
+/src/sandbox.ts
+config.json
